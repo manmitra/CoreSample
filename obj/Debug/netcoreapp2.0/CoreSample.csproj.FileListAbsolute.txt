@@ -1,0 +1,10 @@
+F:\Technical\Git\Git_Core\CoreSample\bin\Debug\netcoreapp2.0\CoreSample.deps.json
+F:\Technical\Git\Git_Core\CoreSample\bin\Debug\netcoreapp2.0\CoreSample.runtimeconfig.json
+F:\Technical\Git\Git_Core\CoreSample\bin\Debug\netcoreapp2.0\CoreSample.runtimeconfig.dev.json
+F:\Technical\Git\Git_Core\CoreSample\bin\Debug\netcoreapp2.0\CoreSample.dll
+F:\Technical\Git\Git_Core\CoreSample\bin\Debug\netcoreapp2.0\CoreSample.pdb
+F:\Technical\Git\Git_Core\CoreSample\obj\Debug\netcoreapp2.0\CoreSample.csproj.CoreCompileInputs.cache
+F:\Technical\Git\Git_Core\CoreSample\obj\Debug\netcoreapp2.0\CoreSample.AssemblyInfoInputs.cache
+F:\Technical\Git\Git_Core\CoreSample\obj\Debug\netcoreapp2.0\CoreSample.AssemblyInfo.cs
+F:\Technical\Git\Git_Core\CoreSample\obj\Debug\netcoreapp2.0\CoreSample.dll
+F:\Technical\Git\Git_Core\CoreSample\obj\Debug\netcoreapp2.0\CoreSample.pdb
